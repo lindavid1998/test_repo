@@ -10,5 +10,8 @@ print("hello")
 
 for i in range(5):
     print(i)
+
+for i in range(5):
+    print(random.randrange(0,10))
     
 # hello
